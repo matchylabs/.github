@@ -46,13 +46,13 @@ matchy query threats.mxy 1.2.3.4
 
 ## Integrations
 
-| Project | Description |
-|---------|-------------|
-| [**elasticsearch-matchy-ingest-plugin**](https://github.com/matchylabs/elasticsearch-matchy-ingest-plugin) [![Stars](https://img.shields.io/github/stars/matchylabs/elasticsearch-matchy-ingest-plugin?style=social)](https://github.com/matchylabs/elasticsearch-matchy-ingest-plugin) | Elasticsearch ingest processor |
-| [**fluent-bit-matchy**](https://github.com/matchylabs/fluent-bit-matchy) [![Stars](https://img.shields.io/github/stars/matchylabs/fluent-bit-matchy?style=social)](https://github.com/matchylabs/fluent-bit-matchy) | Fluent Bit WASM filter plugin |
-| [**zeek-matchy-plugin**](https://github.com/matchylabs/zeek-matchy-plugin) [![Stars](https://img.shields.io/github/stars/matchylabs/zeek-matchy-plugin?style=social)](https://github.com/matchylabs/zeek-matchy-plugin) | High-performance Zeek plugin (7M+ queries/sec) |
-| [**matchy-wireshark-plugin**](https://github.com/matchylabs/matchy-wireshark-plugin) [![Stars](https://img.shields.io/github/stars/matchylabs/matchy-wireshark-plugin?style=social)](https://github.com/matchylabs/matchy-wireshark-plugin) | Real-time threat matching in Wireshark |
-| [**matchy-java**](https://github.com/matchylabs/matchy-java) [![Stars](https://img.shields.io/github/stars/matchylabs/matchy-java?style=social)](https://github.com/matchylabs/matchy-java) | Java wrapper for JVM integration |
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**elasticsearch-matchy-ingest-plugin**](https://github.com/matchylabs/elasticsearch-matchy-ingest-plugin) | [![Stars](https://img.shields.io/github/stars/matchylabs/elasticsearch-matchy-ingest-plugin?style=social)](https://github.com/matchylabs/elasticsearch-matchy-ingest-plugin) | Elasticsearch ingest processor |
+| [**fluent-bit-matchy**](https://github.com/matchylabs/fluent-bit-matchy) | [![Stars](https://img.shields.io/github/stars/matchylabs/fluent-bit-matchy?style=social)](https://github.com/matchylabs/fluent-bit-matchy) | Fluent Bit WASM filter plugin |
+| [**zeek-matchy-plugin**](https://github.com/matchylabs/zeek-matchy-plugin) | [![Stars](https://img.shields.io/github/stars/matchylabs/zeek-matchy-plugin?style=social)](https://github.com/matchylabs/zeek-matchy-plugin) | High-performance Zeek plugin (7M+ queries/sec) |
+| [**matchy-wireshark-plugin**](https://github.com/matchylabs/matchy-wireshark-plugin) | [![Stars](https://img.shields.io/github/stars/matchylabs/matchy-wireshark-plugin?style=social)](https://github.com/matchylabs/matchy-wireshark-plugin) | Real-time threat matching in Wireshark |
+| [**matchy-java**](https://github.com/matchylabs/matchy-java) | [![Stars](https://img.shields.io/github/stars/matchylabs/matchy-java?style=social)](https://github.com/matchylabs/matchy-java) | Java wrapper for JVM integration |
 
 ## Get Involved
 
