@@ -1,11 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matchylabs/matchy/main/book/src/images/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matchylabs/matchy/main/book/src/images/logo-light.svg">
-    <img alt="Matchy Labs" src="https://raw.githubusercontent.com/matchylabs/matchy/main/book/src/images/logo-light.svg" width="280">
-  </picture>
-</p>
-
 <h3 align="center">Threat Intelligence, Everywhere You Work</h3>
 
 <p align="center">
