@@ -46,22 +46,15 @@ matchy query threats.mxy 1.2.3.4
 
 **[Get Started with Matchy →](https://github.com/matchylabs/matchy)**
 
-## Pipeline Integrations
+## Integrations
 
-Drop threat intelligence matching into your data pipelines:
-
-| Integration | Description |
-|-------------|-------------|
+| Project | Description |
+|---------|-------------|
 | [**elasticsearch-matchy-ingest-plugin**](https://github.com/matchylabs/elasticsearch-matchy-ingest-plugin) | Elasticsearch ingest processor |
 | [**fluent-bit-matchy**](https://github.com/matchylabs/fluent-bit-matchy) | Fluent Bit WASM filter plugin |
 | [**zeek-matchy-plugin**](https://github.com/matchylabs/zeek-matchy-plugin) | High-performance Zeek plugin (7M+ queries/sec) |
-| [**matchy-java**](https://github.com/matchylabs/matchy-java) | Java wrapper for JVM integration |
-
-## Analysis Tools
-
-| Tool | Description |
-|------|-------------|
 | [**matchy-wireshark-plugin**](https://github.com/matchylabs/matchy-wireshark-plugin) | Real-time threat matching in Wireshark |
+| [**matchy-java**](https://github.com/matchylabs/matchy-java) | Java wrapper for JVM integration |
 
 ## Get Involved
 
