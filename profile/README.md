@@ -20,6 +20,10 @@ We build tools that change that. Our software plugs into the data pipelines you 
 
 ## Matchy
 
+<a href="https://github.com/matchylabs/matchy"><img src="https://img.shields.io/github/stars/matchylabs/matchy?style=social" alt="GitHub Stars"></a>
+&nbsp;
+<a href="https://crates.io/crates/matchy"><img src="https://img.shields.io/crates/v/matchy.svg" alt="Crates.io"></a>
+
 Our flagship project. A fast IoC matching engine that builds memory-mapped databases from threat intel feeds.
 
 - **Sub-millisecond lookups** on 100K+ indicators
@@ -37,12 +41,6 @@ matchy match threats.mxy access.log
 # Query individual indicators
 matchy query threats.mxy 1.2.3.4
 ```
-
-<p>
-  <a href="https://github.com/matchylabs/matchy"><img src="https://img.shields.io/github/stars/matchylabs/matchy?style=social" alt="GitHub Stars"></a>
-  &nbsp;
-  <a href="https://crates.io/crates/matchy"><img src="https://img.shields.io/crates/v/matchy.svg" alt="Crates.io"></a>
-</p>
 
 **[Get Started with Matchy →](https://github.com/matchylabs/matchy)**
 
