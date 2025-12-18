@@ -44,6 +44,13 @@ matchy query threats.mxy 1.2.3.4
 
 **[Get Started with Matchy →](https://github.com/matchylabs/matchy)**
 
+## Language Bindings
+
+| Binding | Description |
+|---------|-------------|
+| [**matchy-wasm**](https://github.com/matchylabs/matchy/tree/main/crates/matchy-wasm) | JavaScript/TypeScript via WebAssembly (`npm install matchy-wasm`) |
+| [**matchy-java**](https://github.com/matchylabs/matchy-java) | Java wrapper for JVM integration |
+
 ## Integrations
 
 | Project | Stars | Description |
@@ -52,7 +59,6 @@ matchy query threats.mxy 1.2.3.4
 | [**fluent-bit-matchy**](https://github.com/matchylabs/fluent-bit-matchy) | [![Stars](https://img.shields.io/github/stars/matchylabs/fluent-bit-matchy?style=social)](https://github.com/matchylabs/fluent-bit-matchy) | Fluent Bit WASM filter plugin |
 | [**zeek-matchy-plugin**](https://github.com/matchylabs/zeek-matchy-plugin) | [![Stars](https://img.shields.io/github/stars/matchylabs/zeek-matchy-plugin?style=social)](https://github.com/matchylabs/zeek-matchy-plugin) | High-performance Zeek plugin (7M+ queries/sec) |
 | [**matchy-wireshark-plugin**](https://github.com/matchylabs/matchy-wireshark-plugin) | [![Stars](https://img.shields.io/github/stars/matchylabs/matchy-wireshark-plugin?style=social)](https://github.com/matchylabs/matchy-wireshark-plugin) | Real-time threat matching in Wireshark |
-| [**matchy-java**](https://github.com/matchylabs/matchy-java) | [![Stars](https://img.shields.io/github/stars/matchylabs/matchy-java?style=social)](https://github.com/matchylabs/matchy-java) | Java wrapper for JVM integration |
 
 ## Get Involved
 
